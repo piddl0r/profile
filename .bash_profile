@@ -5,7 +5,7 @@ PATH=/usr/local/bin:$PATH/usr/local/mysql/bin:$PATH
 JAVA_HOME="/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home";export JAVA_HOME
 
 # Aliases
-alias ls='ls -GFh'
+alias ls='ls -lGFh'
 
 # Colours
 export PS1="\[\033[36m\]\u\[\033[m\]@\[\033[32m\]\h:\[\033[33;1m\]\w\[\033[m\]\$ "
